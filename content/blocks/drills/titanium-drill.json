@@ -12,7 +12,7 @@
   "updateEffect": {
     "type": "ParticleEffect"
     "line": true
-    "particles": 5
+    "particles": 3
     "lifetime": 10
     "length": 25
     "cone": -360
