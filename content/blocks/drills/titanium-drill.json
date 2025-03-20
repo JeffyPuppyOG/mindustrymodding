@@ -8,6 +8,21 @@
   "drawRim": true
   "rotateSpeed": 7
   "itemCapacity": 50
+  "warmUpSpeed": 1
+  "updateEffect": {
+    "type": "ParticleEffect"
+    "line": true
+    "particles": 5
+    "lifetime": 10
+    "length": 25
+    "cone": -360
+    "strokeFrom": 2
+    "lenFrom": 4
+    "lenTo": 0
+    "colorFrom": "5456C1"
+    "colorTo": "5456C1"
+  }
+  "updateEffectChance": 0.5
   "hasliquids": true
   "hardnessDrillMultiplier": 3
   "liquidCapacity": 30
