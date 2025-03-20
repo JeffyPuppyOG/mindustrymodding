@@ -1,0 +1,9 @@
+{
+name: "rays mod testing"
+description: "Will this mod even work?"
+author: "JeffyPuppy1234"
+minGameVersion: 146
+version: "1.0.0"
+displayName: "Ray's Mod Testing"
+subtitle: "hoping it works, maybe?"
+}
