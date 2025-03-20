@@ -8,6 +8,7 @@
   "itemCapacity": 50
   "hasliquids": true
   "hardnessDrillMultiplier": 5
+  "rotateSpeed": 7
   "liquidCapacity": 30
   "consumes": {
     "power": 4.2
