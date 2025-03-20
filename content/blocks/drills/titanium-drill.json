@@ -11,6 +11,7 @@
   "hasliquids": true
   "hardnessDrillMultiplier": 3
   "liquidCapacity": 30
+  "heatColor": "5456C1"
   "consumes": {
     "power": 4.2
     "liquid": {
