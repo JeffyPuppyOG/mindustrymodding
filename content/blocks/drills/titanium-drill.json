@@ -5,9 +5,10 @@
   "tier": 5
   "liquidBoostIntensity": 2.25
   "drawRim": true
+  "rotateSpeed": 7
   "itemCapacity": 50
   "hasliquids": true
-  "hardnessDrillMultiplier": 5
+  "hardnessDrillMultiplier": 7
   "liquidCapacity": 30
   "consumes": {
     "power": 4.2
