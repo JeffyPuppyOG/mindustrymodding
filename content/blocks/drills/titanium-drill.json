@@ -1,5 +1,6 @@
 {
   "name": "Titanium Drill"
+  "description": "A more faster and efficient drill compared to the Airblast Drill. Cryofluid is optional."
   "type": "Drill"
   "health": 1000
   "size": 4
