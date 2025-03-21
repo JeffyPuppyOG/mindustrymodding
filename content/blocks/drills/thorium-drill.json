@@ -38,7 +38,7 @@
     }
   }
   "requirements": [
-   "thorium/1350"
+    "thorium/1350"
     "titanium/1300"
     "silicon/1200"
     "metaglass/1100"
