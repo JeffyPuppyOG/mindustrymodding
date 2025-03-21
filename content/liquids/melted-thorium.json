@@ -1,0 +1,8 @@
+{
+  "temperature": 3
+  "viscosity": 0.5
+  "flammability": 5
+  "effect": "melting"
+  "color": "f9a3c7"
+  "lightColor": "f9a3c780"
+}
