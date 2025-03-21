@@ -3,7 +3,7 @@
   "health": "1375"
   "size": 5
   "name": "Thorium Drill"
-  "description": "Blades are sharper and break down ores more efficiently. Cryofluid is required."
+  "description": "Blades are sharper and break down ores more efficiently. Melted Thorium is required."
   "tier": 10
   "rotateSpeed": 11
   "drawRim": true
@@ -31,7 +31,7 @@
   "consumes": {
     "power": 5.5
     "liquid": {
-      "liquid": "cryofluid"
+      "liquid": "melted-thorium"
       "amount": 0.4
       "optional": false
       "booster": false
