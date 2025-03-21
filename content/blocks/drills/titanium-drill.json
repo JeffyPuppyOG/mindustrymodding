@@ -9,7 +9,7 @@
   "rotateSpeed": 7
   "itemCapacity": 50
   "warmUpSpeed": 1
-  "drillTime": 5
+  "drillTime": 2
   "updateEffect": {
     "type": "ParticleEffect"
     "line": true
