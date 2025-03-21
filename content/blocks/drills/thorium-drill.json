@@ -5,14 +5,14 @@
   "name": "Thorium Drill"
   "description": "Blades are sharper and break down ores more efficiently. Cryofluid is required."
   "tier": 10
-  "rotateSpeed": 9
+  "rotateSpeed": 11
   "drawRim": true
   "liquidBoostIntensity": 1
   "itemCapacity": 80
   "hardnessDrillMultiplier": 4
   "liquidCapacity": 60
   "hasLiquids": true
-  "drillTime": 50
+  "drillTime": 40
   "updateEffect": {
     "type": "ParticleEffect"
     "line": true
