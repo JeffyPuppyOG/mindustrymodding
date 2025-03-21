@@ -30,7 +30,7 @@
   "consumes": {
     "power": 4.2
     "liquid": {
-      "liquid": "water"
+      "liquid": "cryofluid"
       "amount": 0.2
       "booster": true
       "optional": true
