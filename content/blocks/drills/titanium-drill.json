@@ -24,7 +24,7 @@
   }
   "updateEffectChance": 0.5
   "hasliquids": true
-  "hardnessDrillMultiplier": 3
+  "hardnessDrillMultiplier": 10
   "liquidCapacity": 30
   "heatColor": "5456C1"
   "consumes": {
