@@ -26,7 +26,7 @@
     "colorFrom": "456BE6"
     "colorTo": "456BE6"
   }
-  "updateEffectChance": 0.5
+  "updateEffectChance": 0.25
   "heatColor": "456BE6"
   "consumes": {
     "power": 4.2
