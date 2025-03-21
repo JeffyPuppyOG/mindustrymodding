@@ -38,11 +38,12 @@
     }
   }
   "requirements": [
-    "thorium/450"
-    "titanium/400"
-    "silicon/300"
-    "metaglass/200"
-    "lead/500"
+   "thorium/1350"
+    "titanium/1300"
+    "silicon/1200"
+    "metaglass/1100"
+    "lead/1400"
+    "surge-alloy/900"
   ]
   "category": "production"
   "research": "titanium-drill"
