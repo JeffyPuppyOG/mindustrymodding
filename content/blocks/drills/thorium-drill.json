@@ -9,7 +9,7 @@
   "drawRim": true
   "liquidBoostIntensity": 1
   "itemCapacity": 80
-  "hardnessDrillMultiplier": 6
+  "hardnessDrillMultiplier": 4
   "liquidCapacity": 60
   "hasLiquids": true
   "drillTime": 50
