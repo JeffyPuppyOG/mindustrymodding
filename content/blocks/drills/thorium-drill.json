@@ -12,7 +12,7 @@
   "hardnessDrillMultiplier": 4
   "liquidCapacity": 60
   "hasLiquids": true
-  "drillTime": 40
+  "drillTime": 30
   "updateEffect": {
     "type": "ParticleEffect"
     "line": true
