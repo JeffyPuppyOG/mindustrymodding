@@ -25,7 +25,7 @@
     "colorFrom": "f9a3c7"
     "colorTo": "f9a3c7"
   }
-  "updateEffectChance": 0.5
+  "updateEffectChance": 0.35
   "heatColor": "f9a3c7"
   "consumes": {
     "power": 5.5
