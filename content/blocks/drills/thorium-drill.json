@@ -25,6 +25,7 @@
     "colorTo": "f9a3c7"
   }
   "updateEffectChance": 0.5
+  "heatColor": "f9a3c7"
   "consumes": {
     "power": 5.5
     "liquid": {
