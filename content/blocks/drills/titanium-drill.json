@@ -9,7 +9,7 @@
   "rotateSpeed": 7
   "itemCapacity": 50
   "warmUpSpeed": 1
-  "drillTime": 75
+  "drillTime": 85
   "updateEffect": {
     "type": "ParticleEffect"
     "line": true
@@ -31,7 +31,7 @@
   "consumes": {
     "power": 4.2
     "liquid": {
-      "liquid": "water"
+      "liquid": "cryofluid"
       "amount": 0.2
       "booster": true
       "optional": true
