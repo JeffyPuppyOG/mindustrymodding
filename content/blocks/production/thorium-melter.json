@@ -26,7 +26,6 @@
     "type": "DrawLiquidOutputs"
   }
                ]
-
 },
   "hasPower": true
   "hasItems": true
@@ -38,10 +37,15 @@
       "lead/15"
       "thorium/30"
     ]
+    "liquids": [
+      "slag/0.5"
+    ]
   }
   "category": "crafting"
   "research": {
     "parent": "cryofluid-mixer"
   }
-  "outputsLiquids": "melted-thorium/0.5"
+  "outputsLiquids": [
+  "melted-thorium/0.5"
+  ]
 }
