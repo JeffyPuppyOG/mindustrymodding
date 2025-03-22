@@ -48,4 +48,10 @@
   "outputsLiquids": [
   "melted-thorium/0.5"
   ]
+  "requirements": [
+    "thorium/300"
+    "titanium/250"
+    "metaglass/500"
+    "lead/750"
+  ]
 }
