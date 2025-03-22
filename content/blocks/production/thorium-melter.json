@@ -3,7 +3,7 @@
   "name": "Thorium Melter"
   "description": "Melts down lead and thorium using slag."
   "size": 3
-  "craftTime": 80
+  "craftTime": 100
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
