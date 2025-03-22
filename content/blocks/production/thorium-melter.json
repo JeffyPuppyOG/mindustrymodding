@@ -1,0 +1,5 @@
+{
+  "type": "GenericCrafter"
+  "name": "Thorium Melter"
+  "description": "Melts down lead and thorium using slag."
+  "size": 3
