@@ -27,6 +27,7 @@
   "hasPower": true
   "hasItems": true
   "itemCapacity": 50
+  "liquidCapacity": 50
   "outputsLiquid": true
   "consumes": {
     "power": 5
