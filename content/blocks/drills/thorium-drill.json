@@ -7,12 +7,12 @@
   "tier": 10
   "rotateSpeed": 11
   "drawRim": true
-  "liquidBoostIntensity": 1.05
+  "liquidBoostIntensity": 1
   "itemCapacity": 80
   "hardnessDrillMultiplier": 4
   "liquidCapacity": 60
   "hasLiquids": true
-  "drillTime": 30
+  "drillTime": 40
   "updateEffect": {
     "type": "ParticleEffect"
     "line": true
