@@ -2,8 +2,11 @@
   "name": "Melted Thorium"
   "description": "A hot fluid from the metals of Thorium and Lead. Primarily used in drills for better performance."
   "temperature": 5
-  "viscosity": 0.5
-  "flammability": 1
+  "viscosity": 2
+  "flammability": 0.3
+  "temperature": 10
+  "boilPoint": 40f
+  "coolant": false
   "effect": "melting"
   "color": "f9a3c7"
   "lightColor": "f9a3c780"
