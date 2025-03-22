@@ -22,9 +22,6 @@
        {
     "type": "DrawDefault"
   },
-  {
-    "type": "DrawLiquidOutputs"
-  }
                ]
 },
   "hasPower": true
@@ -45,9 +42,7 @@
   "research": {
     "parent": "cryofluid-mixer"
   }
-  "outputsLiquids": [
-  "melted-thorium/0.5"
-  ]
+  "outputsLiquids": "melted-thorium/0.5"
   "requirements": [
     "thorium/300"
     "titanium/250"
