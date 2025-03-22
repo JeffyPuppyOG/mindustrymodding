@@ -3,3 +3,45 @@
   "name": "Thorium Melter"
   "description": "Melts down lead and thorium using slag."
   "size": 3
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+  {
+    "type": "drawRegion",
+    "suffix": "-bottom"    
+    },
+  {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "water"
+  },
+  {
+    "type": "DrawLiquidTile",
+    "drawLiquid": "cryofluid",
+    "drawLiquidLight": true
+  },
+       {
+    "type": "DrawDefault"
+  },
+  {
+    "type": "DrawLiquidOutputs"
+  }
+               ]
+
+},
+  "hasPower": true
+  "hasItems": true
+  "itemCapacity": 50
+  "outputsLiquid": true
+  "consumes": {
+    "power": 5
+    "items": [
+      "lead/15"
+      "thorium/30"
+    ]
+  }
+  "category": "crafting"
+  "research": {
+    "parent": "cryofluid-mixer"
+  }
+  "outputsLiquids": "melted-thorium/0.5"
+}
