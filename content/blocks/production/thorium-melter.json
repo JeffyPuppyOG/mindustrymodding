@@ -27,14 +27,14 @@
 },
   "hasPower": true
   "hasItems": true
-  "itemCapacity": 40
+  "itemCapacity": 75
   "liquidCapacity": 50
   "outputsLiquid": true
   "consumes": {
     "power": 5
     "items": [
       "lead/25"
-      "thorium/25"
+      "thorium/30"
     ]
     "liquids": [
       "slag/0.5"
