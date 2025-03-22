@@ -5,7 +5,7 @@
   "viscosity": 2
   "flammability": 0.3
   "temperature": 10
-  "boilPoint": 40f
+  "boilPoint": 40
   "coolant": false
   "effect": "melting"
   "color": "f9a3c7"
