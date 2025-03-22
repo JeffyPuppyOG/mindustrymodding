@@ -44,7 +44,7 @@
   "research": {
     "parent": "cryofluid-mixer"
   }
-  "outputLiquid": "melted-thorium/0.86"
+  "outputLiquid": "melted-thorium/0.66"
   "requirements": [
     "thorium/300"
     "titanium/250"
