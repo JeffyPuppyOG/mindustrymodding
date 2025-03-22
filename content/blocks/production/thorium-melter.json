@@ -12,11 +12,11 @@
     },
   {
     "type": "DrawLiquidTile",
-    "drawLiquid": "water"
+    "drawLiquid": "slag"
   },
   {
     "type": "DrawLiquidTile",
-    "drawLiquid": "cryofluid",
+    "drawLiquid": "melted-thorium",
     "drawLiquidLight": true
   },
        {
